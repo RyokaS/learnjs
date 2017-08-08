@@ -1,5 +1,5 @@
 var connect = require('connect');
-var static = require('server-static');
+var static = require('serve-static');
 
 var server = connect();
 
